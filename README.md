@@ -1,1 +1,3 @@
-# Subtipos_sanguineos
+Um problema importante no diagnóstico de sangue é a classificação de diferentes tipos de células sanguíneas. Aqui temos 410 imagens originais e 12.500 imagens aumentadas de células sanguíneas pareadas com rótulos de subtipo (Basófilo vs Eosinófilo vs Linfócito vs Monócito vs Neutrófilo). Queremos classificar automaticamente cada imagem de acordo com o subtipo de células dentro dela.
+
+Para obter mais informações sobre células sanguíneas e subtipos de células sanguíneas, consulte os seguintes links: https://www.ncbi.nlm.nih.gov/books/NBK2263/ e https://www.ncbi.nlm.nih.gov/books/NBK2263/box/A26/?report=objectonly
